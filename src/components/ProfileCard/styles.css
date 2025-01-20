@@ -12,8 +12,8 @@
 }
 
 .profile-card__avatar img {
-    width: 350px;
-    height: 350px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border-radius: 40%;
   }

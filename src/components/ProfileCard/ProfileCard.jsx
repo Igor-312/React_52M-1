@@ -9,7 +9,7 @@ function ProfileCard() {
     <div className="profile-card__avatar">
       <img src={homeworkData.homework_img} />
       <h3>Homework {homeworkData.homework_number}</h3>
-      <div>Neme: {homeworkData.name}</div>
+      <div>Name: {homeworkData.name}</div>
       <div>Occupation: {homeworkData.occupation}</div>
       <div>Hobbyes: {homeworkData.hobbies}</div>
     </div>
