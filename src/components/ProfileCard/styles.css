@@ -1,0 +1,19 @@
+.profile-card__avatar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    min-width: 400px;
+    padding: 40px;
+    background-color:bisque;
+    border: 2px solid rgb(32, 66, 71);
+    border-radius: 6px;
+    font-size: 30 px;
+}
+
+.profile-card__avatar img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 40%;
+  }
